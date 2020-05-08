@@ -1,4 +1,5 @@
 # Entire pipeline for the project `Fievel: Using Machine learning to help victim of human traffic`
+To learn more about the project you can check my article: https://medium.com/@cristiana.principato/fievel-ml-against-human-trafficking-5cda63a7b85e
 1) Insight_1_getData_Azure.ipynb = How to access Azure and get data
 2) Insight_Last_webScaper.ipynb	= build a web scraper to get additional data from web
 3) Insight_5_Last_clean_data_general.ipynb = data cleaning and feature engineering
